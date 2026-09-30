@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
+|  |  bb
 | ------- |
 | [0197-rising-temperature](https://github.com/hasthpoojary/Java-SQL/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/hasthpoojary/Java-SQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
